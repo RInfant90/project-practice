@@ -1,6 +1,7 @@
 # project-practice
 Practicing git &amp; github
 
-Created a project
-Wrote code
-Solved a problem
+Today we.
+- Created some folders
+- Wrote program
+- Solved a problem
